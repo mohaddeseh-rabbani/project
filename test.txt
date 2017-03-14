@@ -1,0 +1,11 @@
+"hello "
+ Volume in drive D is Seagate Expansion Drive
+ Volume Serial Number is 7C84-EB3E
+
+ Directory of D:\bozorgmehr1
+
+03/14/2017  02:13 PM    <DIR>          .
+03/14/2017  02:13 PM    <DIR>          ..
+03/14/2017  02:13 PM                10 test.txt
+               1 File(s)             10 bytes
+               2 Dir(s)  840,974,114,816 bytes free
